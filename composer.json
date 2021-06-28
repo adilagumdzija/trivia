@@ -1,0 +1,15 @@
+{
+    "name": "ibu/trivia",
+    "description": "trivia website",
+    "license": "Apache2",
+    "authors": [
+        {
+            "name": "adi-lagumdzija",
+            "email": "adilag0511@gmail.com"
+        }
+    ],
+    "require": {
+        "mikecao/flight": "^1.3",
+        "zircote/swagger-php": "^3.1"
+    }
+}
